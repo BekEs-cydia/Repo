@@ -16,3 +16,37 @@ Description: اداة وظيفتها : سناب بلس بمميزات كثيره
 Name: relicloader
 Author: BekEs - بيكاس
 
+Package: com.bekes-cydia.github.io.shadowx12
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: no5up x Kanji
+Installed-Size: 336
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//com.bekes-cydia.github.io.shadowx12_2.0.1_iphoneos-arm.deb
+Size: 106518
+MD5sum: 48de75f083c81e3241cff80491ead5c1
+SHA1: d5cec7e8ab30feb405c77e8502361ba625c991ea
+SHA256: 52e5125f40f25c64a333f66a9e2812e274cf8628adc5b47a525e9945ffa27db5
+SHA512: af089d8dafb88ff97d4fb00db1c022d3d966be921ddf7658bc62351fadd75c0a7f7a7de63c09549b6409ede0f9e3416014eec29b4918875c40dc079bf5c88aa4
+Description: اداة وظيفتها : سناب شادو بلس اضافة ميزات لسناب منها رفع وحفظ من الخاص والعام وتخفي عند مشاهدة الخاص والاستوري لاصدار 12 اصدار السناب 11.65♡♡ ‏♯̶!.
+Name: Shadow X (iOS 12)
+Author: BekEs -بيكاس
+
+Package: com.bekes-cydia.github.io.shadowx
+Architecture: iphoneos-arm
+Version: 2.0.2
+Section: Tweaks
+Maintainer: no5up x Kanji
+Installed-Size: 340
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs//com.bekes-cydia.github.io.shadowx_2.0.deb
+Size: 107112
+MD5sum: b57e9aab2acbdc20b3ccba194ea0e7c5
+SHA1: ccc8acc7ab720e73fb44edde822b86b3bc71d07b
+SHA256: a81b119cce13a212ad2991299e17bd7bf30fb8c9b0453118ef932720661b1c4b
+SHA512: 7b42402dbf862f4bc454a69ba020aecda7b1c1c2708b80b7410cc2a3c7a5c3ceb232196253002678ee57431513c2a7aa7a7b866d11530895b599f217d6aba5c3
+Description: اداة وظيفتها : سناب شادو بلس اضافة ميزات لسناب منها رفع وحفظ من الخاص والعام وتخفي عند مشاهدة الخاص والاستوري  ♡♡ ‏♯̶!.
+Name: Shadow X
+Author: BekEs - بيكاس
+
