@@ -51,6 +51,23 @@ Description: اداة وظيفتها : سناب بلس بمميزات كثيره
 Name: relicloader
 Author: BekEs - بيكاس
 
+Package: com.bekes-cydia.github.io.secretphotography
+Architecture: iphoneos-arm
+Version: 2.0.6
+Section: Tweaks
+Maintainer: Spark
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs//com.bekes-cydia.github.io.secretphotography_2.0.6_iphoneos-arm.deb
+Size: 73973168
+MD5sum: b9a20c5f6ac0f6f2fa10dc909df6864e
+SHA1: f23f9a3ef6e9aefdab3490d6df50d99d16327c93
+SHA256: 73776eda26936365ceb10ca418d864c9a5f37e3ef1e328090033fc875b8487c3
+SHA512: 5b469b3f04bda6115cbbf7aa842dd6b9aa995319828b06c02978c1d5efcda1a402a154a0881b3ccb5496e92f5f0ef1d364e2ceff806c1550956428573d5d6f3b
+Description: ادوات وظيفتها : تصوير بخفية بدون علم احد اداتين مجمعه ♡♡ ‏♯̶!.
+Name: Secret Photography
+Author: BekEs - بيكاس
+
 Package: com.bekes-cydia.github.io.shadowx12
 Architecture: iphoneos-arm
 Version: 2.0.1
