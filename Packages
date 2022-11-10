@@ -1,3 +1,20 @@
+Package: com.bekes-cydia.github.io.a-font
+Architecture: iphoneos-arm
+Version: 1.9.3
+Section: Tweaks
+Maintainer: @B6_7E
+Installed-Size: 2380
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs//com.bekes-cydia.github.io.a-font_1.9.3_iphoneos-arm.deb
+Size: 1644140
+MD5sum: fe25072bcb6ce27c33e42d712486a54d
+SHA1: 4926c13e67965bd752770e7b9837af53df5f9f3f
+SHA256: 3ce2b5be3f1b2274ca68b7f955caa49d882b7c9136b37c1880cb332ace087e16
+SHA512: 2c52fcbc182dc8593e8c81216efb1475ea7d93d87e742796e240b8551d76d50c2278582d7de553124dbce6be37d2e1ba8031f1c93e755a46b1e727862102f57c
+Description: اداة وظيفتها : تغير خط الايفون الكامل الي اي خط من اختيارك ♡♡ ‏♯̶!.
+Name: A-Font
+Author: BekEs - بيكاس
+
 Package: com.bekes-cydia.github.io.relicloader
 Architecture: iphoneos-arm
 Version: 3.3.3
