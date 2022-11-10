@@ -121,3 +121,21 @@ Description: اداة وظيفتها : سناب شادو بلس اضافة مي�
 Name: Shadow X
 Author: BekEs - بيكاس
 
+Package: com.bekes-cydia.github.io.youtubeplus
+Architecture: iphoneos-arm
+Version: 1.0
+Priority: optional
+Section: Tweaks
+Maintainer: Majd Alfhaily <freemanrepo@me.com>
+Installed-Size: 14300
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs//com.bekes-cydia.github.io.youtubeplus_1.0_iphoneos-arm.deb
+Size: 6275304
+MD5sum: c5960e02a200601f9039513068f23c44
+SHA1: 343f2d2c14c19014c8a805586eb34f370bae1f78
+SHA256: 95eb2991c4750531589b9c438da90d1eea38ffd3409b20d293b33804e659d658
+SHA512: ab97bf8602f02391d86898913dc95ff9b1a833b5601d990dec7e26522337ced0107c643db4d078617c1d9671b1c5a954bfb6e583c24aa755d4d2c70c7deb797c
+Description: اداة وظيفتها : تنزيل الصور والفيديوهات والصوتيات من في اليوتيوب معظم تطبيقات التواصل الاجتماعي مع إمكانية نقل الصوتيات إلى تطبيق الموسيقى ♡♡ ‏♯̶!.
+Name: YouTube Plus
+Author: BekEs - بيكاس
+
