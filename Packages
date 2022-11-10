@@ -33,6 +33,25 @@ Description: اداة وظيفتها : ابل ستور بلس لارجاع ال�
 Name: AppStore++
 Author: BekEs - بيكاس
 
+Package: com.bekes-cydia.github.io.blockerads
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1913
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware(>= 8.0), applist
+Conflicts: com.yllier.blocker
+Filename: ./debs//com.bekes-cydia.github.io.blocker_1.deb
+Size: 665184
+MD5sum: 149121fe9a6aabad30c81fe26dafcef7
+SHA1: a757840348486021cf65227ea34603045aaa0ba2
+SHA256: 2a7b4847cfda8dec9103ce52ce9c9ef4218e0db8ba8cadfc47f0f4f8d675befc
+SHA512: 164fd480e85b112877d373703b681188fec141e02a00b1199c62c510d9c599ed16857d16f8ebf518a20ef036cd8476f1dc1859428d1a328cdd4a018f590d174b
+Description: اداة وظيفتها : ازالة الاعلانات من تطبيقات البلس ومن بعض التطبيقات وسفاري وحظر الاعلانات من الجهاز  وتطبيقات وتدعم التحديثات الاخيره من ادوات البلس لحذف الاعلانات منها ♡♡ ‏♯̶!.
+Name: AdBlocker
+Author: BekEs - بيكاس
+Sponsor: thebigboss.org
+
 Package: com.bekes-cydia.github.io.relicloader
 Architecture: iphoneos-arm
 Version: 3.3.3
