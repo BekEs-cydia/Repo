@@ -1,17 +1,20 @@
-Package: com.bekes-cydia.github.io.ants
+Package: com.bekes-cydia.github.io.relicloader
 Architecture: iphoneos-arm
-Version: 1.0.4
+Version: 3.3.3
 Section: Tweaks
-Maintainer: @B6_7E
-Installed-Size: 728
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs//com.bekes-cydia.github.io.ants_1.0.deb
-Size: 124610
-MD5sum: e54fea7ae6dbd62ea8f8bca1d65651b0
-SHA1: 521094ca013b3075c6932cb54c9648d5fe2366f4
-SHA256: 4682abee7f59aadc74bea06324d94e872d04e1f535e79f17dd836175b6abfc37
-SHA512: f36dab10bed1b02bf14786e642ad85630109a77bb4fd86c46f7c4f41a3c5ad218c1cff2e9c6ded918d3f2182d898d9fdc715f0bcf9a592b217467963adc234e3
-Name: Ants
-Author: BekEs - بيكاس
-Depiction: اداة وظيفتها : جعل شاشة فيها حركة انميشن نمل ♡♡ ‏♯̶!.
+Maintainer: no5up + Kanji
+Installed-Size: 2664
+Depends: mobilesubstrate, com.no5up-kanji.librelic
+Conflicts: com.wyattgahm-kanji.shadowx
+Filename: ./debs//com. bekes-cydia.github.io.relicloader_3.3.deb
+Size: 1295562
+MD5sum: b96825ad629282844511e8a6fef4cc9d
+SHA1: 463f52c8fbe5774f021aece97f464ba249e5c3a4
+SHA256: a4997d59561ba336a949f76bf5e5d9c0f114fc0da48ef3359f6fd0ac28c184f5
+SHA512: 4b6cceb55b8bd11610d5f92db8b317ea1775746916ce555e61961bda44029f83cd494c89d35b5d31adb7d2233444bbddcb22a5f518d8f2ebf5cb95c410887e20
+Description: اداة وظيفتها : سناب بلس بمميزات كثيره وعلى اخر اصدار لي السناب حفظ ورفع واخفاء وتعديلات كثير وتم تنظيف الاداه من سيرفر التتبع ♡♡ ‏♯̶!.
+Name: relicloader
+Author: no5up + Kanji
+Depiction: http://bekes.firepo.me/view/2615
+SileoDepiction: http://bekes.firepo.me/sileo.php?pid=2615
 
