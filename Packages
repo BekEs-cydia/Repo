@@ -15,6 +15,24 @@ Description: اداة وظيفتها : تغير خط الايفون الكامل
 Name: A-Font
 Author: BekEs - بيكاس
 
+Package: com.bekes-cydia.github.io.appstoreplusplus
+Architecture: iphoneos-arm
+Version: 0.10.1-5
+Priority: optional
+Section: Tweaks
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ./debs//com.bekes-cydia.github.io.appstoreplusplus_0.10.deb
+Size: 4624226
+MD5sum: 9621356c898e078f969e8638086ecc29
+SHA1: 194b50f5e9e2b3052baef5443140f73c779efa3f
+SHA256: ae9405b905a12954ed833582962a0901d326c8727512b5e2de6cf4b3790918f1
+SHA512: 3fac5911c114e9cac365fd693e5d3a1ca2597e2f855d154e9a8b1c93f2fc46e340a15cf747c16126fbd7de4593527a39803cf5ba8f7fc349066e23ca4e6570bf
+Description: اداة وظيفتها : ابل ستور بلس لارجاع التطبيقات على اصدارات قديمھ ♡♡ ‏♯̶!.
+Name: AppStore++
+Author: BekEs - بيكاس
+
 Package: com.bekes-cydia.github.io.relicloader
 Architecture: iphoneos-arm
 Version: 3.3.3
