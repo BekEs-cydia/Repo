@@ -121,6 +121,46 @@ Description: اداة وظيفتها : سناب شادو بلس اضافة مي�
 Name: Shadow X
 Author: BekEs - بيكاس
 
+Package: org.mr.crane
+Architecture: iphoneos-arm
+Version: 1.3.1
+Section: Tweaks
+Maintainer: MainRepo
+Installed-Size: 3376
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1) | firmware (<< 14.0)
+Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs//org.mr.crane_1.3.1_iphoneos-arm.deb
+Size: 924358
+MD5sum: 1841c4552f19a0d27f396e14cd4c3c4f
+SHA1: 5f95af8ed8608b6d6201a27305ddb4cad08677b0
+SHA256: 5ee80120b6a4cee63b7a9d514ee3f7d72fac713a10b9182d754cc61657d2d901
+SHA512: 8745dd92bcd8509ef3fb50a36c587df236d4e82d0119ef42be5e8528c28f6f2838987f8b8cc4bcbfd3a96dda760e505a10e7773950ba54e1355fc866d4c54a96
+Description: Crane allows you to create multiple containers per application!
+Tag: Cydia
+Name: Crane
+Author: opa334
+Depiction: https://mrepo.org/depiction/5143
+SileoDepiction: https://mrepo.org/sileo/5143
+Icon: https://media.havoc.app/61ffad4e82c2e1d835f525ba?w=1920&q=75
+
+Package: org.mr.xline
+Architecture: iphoneos-arm
+Version: 2.5-2k
+Section: Tweaks
+Maintainer: MainRepo
+Installed-Size: 932
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap, org.mr.cunstuck
+Filename: ./debs//org.mr.xline_2.deb
+Size: 239140
+MD5sum: 3007679e136449b1288755ff89d82ca6
+SHA1: 33169fa179f01e06f8813a2ae54b76659ebad638
+SHA256: 798a987f8bea9d22e929926c6b78ce399ebf07b695d66bdaec395148345e0416
+SHA512: 70ad9a88c9665458d252ef6546e1dddf1551c6c6acb07f22a29b6cc951746d71250ed7cd9e09958567a9120cd43b3da7de83d7b11172d3af079001800c8f18c6
+Description: اداة وظيفتها : فتح لك اكثر من حساب في التطبيقات ♡♡ ‏♯̶!.
+Name: XLine
+Author: CUNSTUCK
+SileoDepiction: https://mrepo.org/sileo/4992
+
 Package: ru.rejail.dleasy
 Architecture: iphoneos-arm
 Version: 2.12.9k
