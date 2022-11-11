@@ -121,3 +121,22 @@ Description: اداة وظيفتها : سناب شادو بلس اضافة مي�
 Name: Shadow X
 Author: BekEs - بيكاس
 
+Package: ru.rejail.dleasy
+Architecture: iphoneos-arm
+Version: 2.12.9k
+Section: Tweaks
+Maintainer: ReJail <rejail@rejail.ru>
+Installed-Size: 3789
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Filename: ./debs//ru.rejail.dleasy_2.12.deb
+Size: 1497778
+MD5sum: 88f5e80ff9aea6f261c8779f5ffbbfc1
+SHA1: 4991754f3615a1dbaeb06595ee0b2b4444f5e0b7
+SHA256: a7fb53d494b223f7b313e6653f0ff2c735cd9204554ed5fdee84b35c7df1ca95
+SHA512: 63cb0e273cc3c6c73f2de103a742de855cfe7cef77b6181b63b139b0a5b1d12c7ca980f78a247bd9c4981cffb12d82f6f77e3152831d64c3e4bd05440d6077ea
+Description: اداة وظيفتها : تحميل من اليوتيوب ومن التواصل الاجتماعي ♡♡ ‏♯̶!.
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=dleasy
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
+
