@@ -128,17 +128,16 @@ Section: Tweaks
 Maintainer: ReJail <rejail@rejail.ru>
 Installed-Size: 3789
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
-Filename: ./debs//ru.rejail.dleasy_2.12.deb
-Size: 1497778
-MD5sum: 88f5e80ff9aea6f261c8779f5ffbbfc1
-SHA1: 4991754f3615a1dbaeb06595ee0b2b4444f5e0b7
-SHA256: a7fb53d494b223f7b313e6653f0ff2c735cd9204554ed5fdee84b35c7df1ca95
-SHA512: 63cb0e273cc3c6c73f2de103a742de855cfe7cef77b6181b63b139b0a5b1d12c7ca980f78a247bd9c4981cffb12d82f6f77e3152831d64c3e4bd05440d6077ea
+Filename: ./debs//ru.rejail.dleasy_2.12.9k_iphoneos-arm.deb
+Size: 1497736
+MD5sum: abaeda13f6ee60e7a66bfdda14f65674
+SHA1: f167eee031ed59f5e8dfdc5fb669bcf543a94ae8
+SHA256: 4710e5ffd4f543b9facb6e998aa3be2ceaed14dd93fe070909100a19fd382b08
+SHA512: 550c1d499e537b7a929d457435a845e9212fce15590fb6dba3fa4398020a6267762304a6ba71da23695788f8a4e071e5170f9c2ac1afc3c182fb7d669fd4cbfe
 Description: اداة وظيفتها : تحميل من اليوتيوب ومن التواصل الاجتماعي ♡♡ ‏♯̶!.
 Name: DLEasy
 Author: AhmedBafkir <prooxy0@gmail.com>
 SileoDepiction: https://rejail.ru/sileo/depiction.php?file=dleasy
-Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
 
 Package: ru.rj.tiktoklrd
 Architecture: iphoneos-arm
@@ -147,15 +146,14 @@ Section: Tweaks
 Maintainer: @B6_7E
 Installed-Size: 4873
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Filename: ./debs//ru.rj.tiktoklrd_1.deb
-Size: 3403840
-MD5sum: aac55c0542dcd27f33c3f354faa629fe
-SHA1: e29b0f7002c4342588553681e0187baadd91d522
-SHA256: e431a96d310237400cf9364560eb149934fc4d33f18f1d272b20774155f91546
-SHA512: e3eb8a5a6b68310f5f3fb5c59756dccf0453be47220c2e53c5e8c621db4127c52f4f8a8e66d6b07bc4fe60bcefb883da16792e284c4b59d8cb87ebc593c604cd
+Filename: ./debs//ru.rj.tiktoklrd_1.7k_iphoneos-arm.deb
+Size: 3403800
+MD5sum: 9ca3e60db98f8d6830833bf20f666a5f
+SHA1: 8d4e7529e7432d3c957b5c160cd6d4021a6751f9
+SHA256: 5eebbdab26538ff2f6c9e35fd8e723c66d2b84029a60db03224f16c12a9f9dfb
+SHA512: 8ede56eba3979be9dd6da331eff6f8270191280eb82ec9719db42d05d97cba4176cede5a58e1d6b9c14ecd85daf1eb77689ac4aacbfcd586ff7fba457007fa3d
 Description: اداة وظيفتها : تيك توك بلس حفظ الفيديو بدون علامة مائية و مشاركة الفيديو و إخفاء واجهة المستخدم و تشغيل الفيديو التالي تلقائيًا و تخطي البث المباشر أثناء المشاهدة تلقائيًا و إظهار شريط التقدم للفيديو و إمكانية رفع الفيديو بالجودة العالية و حفظ صورة الملف الشخصي ♡♡ ‏♯̶!.
 Name: TikTokLRD
 Author: iStorePlus <istorevip007@gmail.com>
 Depiction: http://bekes.firepo.me/view/2652
-Icon: file:///Library/PreferenceBundles/tiktoklrdprefs.bundle/icon@2x.png
 
