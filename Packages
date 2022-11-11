@@ -140,3 +140,22 @@ Author: AhmedBafkir <prooxy0@gmail.com>
 SileoDepiction: https://rejail.ru/sileo/depiction.php?file=dleasy
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
 
+Package: ru.rj.tiktoklrd
+Architecture: iphoneos-arm
+Version: 1.7k
+Section: Tweaks
+Maintainer: @B6_7E
+Installed-Size: 4873
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Filename: ./debs//ru.rj.tiktoklrd_1.deb
+Size: 3403840
+MD5sum: aac55c0542dcd27f33c3f354faa629fe
+SHA1: e29b0f7002c4342588553681e0187baadd91d522
+SHA256: e431a96d310237400cf9364560eb149934fc4d33f18f1d272b20774155f91546
+SHA512: e3eb8a5a6b68310f5f3fb5c59756dccf0453be47220c2e53c5e8c621db4127c52f4f8a8e66d6b07bc4fe60bcefb883da16792e284c4b59d8cb87ebc593c604cd
+Description: اداة وظيفتها : تيك توك بلس حفظ الفيديو بدون علامة مائية و مشاركة الفيديو و إخفاء واجهة المستخدم و تشغيل الفيديو التالي تلقائيًا و تخطي البث المباشر أثناء المشاهدة تلقائيًا و إظهار شريط التقدم للفيديو و إمكانية رفع الفيديو بالجودة العالية و حفظ صورة الملف الشخصي ♡♡ ‏♯̶!.
+Name: TikTokLRD
+Author: iStorePlus <istorevip007@gmail.com>
+Depiction: http://bekes.firepo.me/view/2652
+Icon: file:///Library/PreferenceBundles/tiktoklrdprefs.bundle/icon@2x.png
+
